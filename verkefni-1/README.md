@@ -24,7 +24,7 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ### Eiusmod tempor et fugiat
 ```mermaid
 pie
-title Pie Chart
+title sub or dom?
     "Miðja" : 12
     "Vinstri" : 33
     "Hægri" : 55
@@ -32,8 +32,10 @@ title Pie Chart
 
 ### Dolore ut velit
 
-void setup() { Serial.begin(9600); Serial.println("Halló"); }
-
+<dl>
+    <dd> void setup() { Serial.begin(9600); Serial.println("Halló"); } </dd>
+</dl>
+    
 ## Commodo occaecat
 
 Incididunt laborum mollit cupidatat laboris anim
