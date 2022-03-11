@@ -23,7 +23,7 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ### Eiusmod tempor et fugiat
 
-mermaid
+'''mermaid
 pie
 title Pie Chart
     "Miðja" : 12
