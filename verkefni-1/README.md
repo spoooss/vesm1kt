@@ -25,10 +25,10 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 mermaid
 pie
-    title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150 
+title Pie Chart
+    "Miðja" : 12
+    "Vinstri" : 33
+    "Hægri" : 55
 
 
 ### Dolore ut velit
