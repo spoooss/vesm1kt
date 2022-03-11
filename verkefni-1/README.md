@@ -22,14 +22,13 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 |tempor | et      | fugiat |
 
 ### Eiusmod tempor et fugiat
-
-'''mermaid
+```mermaid
 pie
 title Pie Chart
     "Miðja" : 12
     "Vinstri" : 33
     "Hægri" : 55
-
+```
 
 ### Dolore ut velit
 
