@@ -34,7 +34,8 @@ title sub or dom?
 ```C++
 void setup() {
     Serial.begin(9600);
-    Serial.println("Halló"); } 
+    Serial.println("Halló"); 
+} 
 ```
     
 ## Commodo occaecat
