@@ -48,11 +48,21 @@ void setup() {
     
 ## Commodo occaecat
 
-Incididunt laborum mollit cupidatat laboris anim
+1. Incididunt 
+2. laborum 
+    1. mollit 
+    2. cupidatat 
+3. laboris 
+4. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
-deserunt sit aliqua eiusmod irure aliquip
+- deserunt 
+    - sit
+    - aliqua
+        - eiusmod
+    - irure
+- aliquip
 
 ## Occaecat amet labore
 Slóð á mynd: https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg
