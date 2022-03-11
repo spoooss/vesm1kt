@@ -23,6 +23,13 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ### Eiusmod tempor et fugiat
 
+mermaid
+pie
+    title Pie Chart
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 150 
+
 
 ### Dolore ut velit
 
