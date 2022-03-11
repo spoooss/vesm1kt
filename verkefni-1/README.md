@@ -31,10 +31,11 @@ title sub or dom?
 ```
 
 ### Dolore ut velit
-
-<dl>
-    <dd> void setup() { Serial.begin(9600); Serial.println("Halló"); } </dd>
-</dl>
+```C++
+void setup() {
+    Serial.begin(9600);
+    Serial.println("Halló"); } 
+```
     
 ## Commodo occaecat
 
